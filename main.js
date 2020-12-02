@@ -2,11 +2,10 @@
  * DATA *
  **********/
 
-const sixes = [];
-const doubleSixes = [];
-const twelves = [];
-const twenties = [];
-
+const sixes = [8, 3];
+const doubleSixes = [8, 3];
+const twelves = [8, 3];
+const twenties = [8, 3];
 
 /********************
  * HELPER FUNCTIONS *
@@ -38,9 +37,20 @@ const sortByNumber = function(arr) {
  * EVENT LISTENERS *
  *******************/
 
+
+
+
 /******************
  * RESET FUNCTION *
  ******************/
+
+
+
+/****************************
+ * CLICK HANDLING FUNCTIONS *
+****************************/
+
+
 
 /****************
  * MATH SECTION *
