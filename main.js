@@ -15,7 +15,6 @@ const getRandomNumber = function(max) {
     const rand = Math.random();
     const range = rand * max;
     const result = Math.ceil(range);
-    
     return result;
 }
 
