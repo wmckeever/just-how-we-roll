@@ -13,16 +13,12 @@ There's been some code left behind in this other-wise gutted app: a random numbe
 
 And feel free to use the comment boxes to organize your sections. (Or don't.)
 
-If you want to add more comment boxes, check out [the Comment Box extension](https://marketplace.visualstudio.com/items?itemName=slysherz.comment-box). It's neat!
-
-
 ### Tools We'll Be Practicing With
 
 * event listeners
 * string building/interpolation
 * array management and iteration
 * maths
-
 
 ### Setting Up
 
