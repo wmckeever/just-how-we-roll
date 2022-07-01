@@ -18,14 +18,6 @@ const getRandomNumber = function(max) {
     return result;
 }
 
-const sortByNumber = function(arr) {
-  const byNumber = function(item1, item2) {
-    return item1 - item2;
-  }
-
-  return arr.slice().sort(byNumber);
-}
-
 /*******************
  * YOUR CODE BELOW *
  *******************/
