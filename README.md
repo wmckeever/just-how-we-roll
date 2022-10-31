@@ -72,6 +72,9 @@ Now let's find a way to calculate the mean (or average) of our die rolls!  Remem
 
 Once you've got the function working, we can **add it to our die click handler functions**. What we want is to get the answer for our particular array, then put that answer in the mean section.
 
+### Stretch Goals
+
+Try figuring out the Median (hard) and Mode (potentially, very hard) for each dice as well! 
 
 ### Good luck!
 
